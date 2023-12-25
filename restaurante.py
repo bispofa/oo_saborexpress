@@ -26,4 +26,5 @@ restaurante_pizza.ativo = True
 
 print(f'{restaurante_pizza.nome} pertence a categoria {restaurante_pizza.categoria}')
 
+print('teste')
 
